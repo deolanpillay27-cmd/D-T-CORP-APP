@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="400dp"
+    android:height="240dp"
+    android:viewportWidth="400"
+    android:viewportHeight="240">
+
+    <!-- Solid pitch black background -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M0,0 H400 V240 H0 Z" />
+
+    <!-- Subtle top/bottom edge sheen -->
+    <path
+        android:pathData="M90,46 L160,46 C188,46 206,62 212,86 L190,86 C185,72 174,64 156,64 L112,64 L90,46 Z M112,68 L132,68 L132,150 L156,150 C166,150 174,146 180,139 L194,152 C184,162 170,168 152,168 L90,168 L112,148 L112,68 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="90"
+                android:startY="46"
+                android:endX="215"
+                android:endY="170"
+                android:type="linear">
+                <item android:color="#FFFFFFFF" android:offset="0.0" />
+                <item android:color="#FF9CA3AF" android:offset="0.38" />
+                <item android:color="#FFF8FAFC" android:offset="0.65" />
+                <item android:color="#FF64748B" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Interlocking & symbol -->
+    <path
+        android:pathData="M182,88 C196,88 206,96 206,108 C206,116 201,123 192,128 L242,174 L222,174 L208,161 C198,169 186,174 174,174 C156,174 144,163 144,148 C144,137 151,128 164,122 C158,116 156,110 156,104 C156,94 167,88 182,88 Z M182,102 C175,102 172,105 172,109 C172,113 175,116 180,120 C187,116 190,113 190,109 C190,104 187,102 182,102 Z M172,134 C164,138 161,142 161,147 C161,154 167,159 176,159 C183,159 190,156 196,150 L176,132 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="144"
+                android:startY="88"
+                android:endX="242"
+                android:endY="174"
+                android:type="linear">
+                <item android:color="#FFE2E8F0" android:offset="0.0" />
+                <item android:color="#FFFFFFFF" android:offset="0.42" />
+                <item android:color="#FF6B7280" android:offset="0.72" />
+                <item android:color="#FFE5E7EB" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Metallic T letterform -->
+    <path
+        android:pathData="M182,46 L310,46 L290,64 L250,64 L250,168 L230,148 L230,64 L200,64 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="182"
+                android:startY="46"
+                android:endX="310"
+                android:endY="168"
+                android:type="linear">
+                <item android:color="#FF9CA3AF" android:offset="0.0" />
+                <item android:color="#FFFFFFFF" android:offset="0.35" />
+                <item android:color="#FF64748B" android:offset="0.68" />
+                <item android:color="#FFF1F5F9" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Left and right tapering chrome lines -->
+    <path
+        android:fillColor="#FFD1D5DB"
+        android:pathData="M48,198 L116,196.5 L116,199.5 Z" />
+    <path
+        android:fillColor="#FFD1D5DB"
+        android:pathData="M284,196.5 L352,198 L284,199.5 Z" />
+
+    <!-- C O R P spaced chrome lettering -->
+    <!-- C -->
+    <path
+        android:fillColor="#FFE5E7EB"
+        android:pathData="M148,191 C146,189 143,188 140,188 C134,188 130,192 130,198 C130,204 134,208 140,208 C143,208 146,207 148,205 L146,203 C144,204.5 142.5,205 140,205 C136,205 133.5,202 133.5,198 C133.5,194 136,191 140,191 C142.5,191 144,191.5 146,193 Z" />
+    <!-- O -->
+    <path
+        android:fillColor="#FFE5E7EB"
+        android:pathData="M180,188 C173.5,188 169,192 169,198 C169,204 173.5,208 180,208 C186.5,208 191,204 191,198 C191,192 186.5,188 180,188 Z M180,191 C184.5,191 187.5,194 187.5,198 C187.5,202 184.5,205 180,205 C175.5,205 172.5,202 172.5,198 C172.5,194 175.5,191 180,191 Z" />
+    <!-- R -->
+    <path
+        android:fillColor="#FFE5E7EB"
+        android:pathData="M210,188 L220,188 C224.5,188 227,190.5 227,194 C227,197 225,199 221.5,199.5 L228,208 L224,208 L218,200 L213.5,200 L213.5,208 L210,208 Z M213.5,191 L213.5,197 L219.5,197 C222,197 223.5,196 223.5,194 C223.5,192 222,191 219.5,191 Z" />
+    <!-- P -->
+    <path
+        android:fillColor="#FFE5E7EB"
+        android:pathData="M248,188 L258,188 C262.5,188 265,190.5 265,194.5 C265,198.5 262.5,201 258,201 L251.5,201 L251.5,208 L248,208 Z M251.5,191 L251.5,198 L257.5,198 C260,198 261.5,196.5 261.5,194.5 C261.5,192.5 260,191 257.5,191 Z" />
+
+</vector>

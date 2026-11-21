@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">D&amp;T Corp</string>
+    <string name="company_legal_name">D&amp;T Corp (Pty) Ltd</string>
+    <string name="company_tagline">Consumer Electronics &amp; Backup Power Solutions</string>
+    <string name="cipc_reg_label">CIPC Reg No: 2026/000000/07</string>
+    <string name="contact_address">140 West Street, Sandton, Johannesburg, South Africa</string>
+    <string name="contact_phone">+27 (0)11 000 0000</string>
+    <string name="contact_email">support@dtcorp.co.za</string>
+    <string name="contact_hours">Mon–Fri: 08:00 – 17:00 SAST</string>
+    <string name="copyright_notice">© 2026 D&amp;T Corp (Pty) Ltd. All rights reserved. All third-party brand names and trademarks belong to their respective owners.</string>
+
+    <string name="nav_shop">Shop</string>
+    <string name="nav_catalog">Catalog</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_care">Care</string>
+
+    <string name="policy_shipping_title">Shipping &amp; Delivery Policy</string>
+    <string name="policy_shipping_body">D&amp;T Corp (Pty) Ltd dispatches orders from our Johannesburg distribution hub Mon–Fri between 08:00 and 17:00 SAST.\n\n• Standard Courier (Consumer Electronics &amp; Mini-UPS): R 149 flat rate nationwide; FREE on orders over R 2,500.\n• Gauteng Same/Next-Day Express: Orders placed before 11:00 SAST qualify for next-business-day delivery in Johannesburg and Pretoria.\n• Major Centres (Cape Town, Durban, Gqeberha, Bloemfontein): 2–3 working days.\n• Regional &amp; Outlying Areas: 3–5 working days.\n• Heavy Freight (Hybrid Inverters &amp; LiFePO4 Rack Batteries): Dispatched via insured palletized courier with tail-lift offload. A flat R 350 heavy-freight handling fee applies unless waived on qualifying bundle promotions.</string>
+
+    <string name="policy_cpa_title">Returns &amp; Warranty Claims (CPA)</string>
+    <string name="policy_cpa_body">All purchases are protected under the South African Consumer Protection Act 68 of 2008 (CPA) and the Electronic Communications and Transactions Act (ECTA).\n\n• 7-Day Cooling-Off Return (ECTA): Unopened, unused items in original factory-sealed packaging may be returned within 7 days of delivery.\n• 6-Month Implied CPA Warranty: Goods failing due to material or manufacturing defects within 6 months of delivery qualify for repair, replacement, or full refund at D&amp;T Corp\'s expense.\n• Extended Manufacturer Warranty: Hybrid inverters carry a 2–5 year manufacturer warranty and LiFePO4 battery modules carry up to a 10-year / 6,000-cycle warranty when installed by a qualified Wireman\'s Licence electrician with a valid CoC.\n• How to Claim: Log a CPA warranty ticket directly in the Care tab with your Order Reference and product serial number.</string>
+
+    <string name="policy_popia_title">POPIA Privacy Policy</string>
+    <string name="policy_popia_body">D&amp;T Corp (Pty) Ltd (CIPC Reg No: 2026/000000/07) complies strictly with the Protection of Personal Information Act 4 of 2013 (POPIA).\n\n• Purpose of Collection: Contact numbers, delivery addresses, and order records are processed solely to fulfil orders, issue VAT tax invoices, arrange insured courier delivery, and administer CPA warranty claims.\n• Payment Security: Card, Instant EFT, and BNPL transactions via VISA, Mastercard, Payfast, Ozow EFT, Capitec Pay, and Payflex are processed through PCI-DSS Level 1 / SARB-compliant payment gateways. D&amp;T Corp never stores full card numbers or banking PINs.\n• Your Rights: You may request access to, correction of, or deletion of your personal records at any time by contacting our Information Officer at support@dtcorp.co.za.</string>
+
+    <string name="policy_terms_title">Terms &amp; Conditions</string>
+    <string name="policy_terms_body">1. Jurisdiction: All transactions with D&amp;T Corp (Pty) Ltd are governed by the laws of the Republic of South Africa.\n\n2. Pricing &amp; VAT: All displayed prices are in South African Rand (ZAR) and include 15% VAT unless otherwise stated. Stock availability is updated from our Johannesburg warehouse.\n\n3. Electrical Installations: Grid-tied and hybrid inverters (3kW–8kW) and high-voltage/48V battery banks must be commissioned by a DoEL-registered electrician in accordance with SANS 10142-1.\n\n4. Payment Terms: Accepted payment methods include VISA, Mastercard, Payfast, Ozow EFT, Capitec Pay, and Payflex (4 interest-free fortnightly instalments, subject to Payflex approval).</string>
+</resources>
